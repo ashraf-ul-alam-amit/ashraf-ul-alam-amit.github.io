@@ -14,7 +14,7 @@ permalink: /publications/
 - **Publisher:** IEEE
 
 ## BanglaOngko : A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture
-- **Authors:** Sudipta Progga Islam, **Ashraf UI Alam**
+- **Authors:** Soumit Das, **Ashraf UI Alam**, Sudipta Progga Islam, Azmain Yakin Srizon
 - **Published in:** 2nd International Conference on Big Data, IoT and Machine Learning 2023 (BIM 2023) **[Paper](#)** **[Project](https://github.com/ashraf-ul-alam-amit/BanglaOngko)**
 - **Publisher:** Taylor and Francis
 - **Conference Date:** 06 September, 2023
