@@ -79,17 +79,19 @@ redirect_from:
 
 ## References
 
-**S. M. Mahedy Hasan**  
+**S. M. Mahedy Hasan** *(Undergrad Thesis Supervisor)*  
 Assistant Professor  
 Dept. of Computer Science & Engineering  
 Rajshahi University of Engineering & Technology  
 Mobile: +880-1870100318  
+Email: [mahedy@cse.ruet.ac.bd](mailto:mahedy@cse.ruet.ac.bd)
 
-**Md. Azmain Yakin Srizon**  
+**Md. Azmain Yakin Srizon** *(Project Supervisor)*  
 Assistant Professor  
 Dept. of Computer Science & Engineering  
 Rajshahi University of Engineering & Technology  
-Mobile: +880-1790187189
+Mobile: +880-1790187189  
+Email: [azmainsrizon@gmail.com](mailto:azmainsrizon@gmail.com)
 
 ---
 
