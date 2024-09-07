@@ -14,8 +14,7 @@ redirect_from:
 *Bachelor of Science in Computer Science and Engineering*  
 *2019 - 2024 | CGPA: 3.44 out of 4.00*
 
-**Relevant Coursework:**
-- Applied Statistics & Queuing Theory (Python), Neural Networks & Fuzzy Systems, Data Mining, Artificial Intelligence, Digital Image Processing, Database Systems, Parallel and Distributed Processing, Digital Signal Processing, Data Structure (C), Object Oriented Programming (C++, Java), Computer Algorithms
+**Relevant Coursework:** Applied Statistics & Queuing Theory (Python), Neural Networks & Fuzzy Systems, Data Mining, Artificial Intelligence, Digital Image Processing, Database Systems, Parallel and Distributed Processing, Digital Signal Processing, Data Structure (C), Object Oriented Programming (C++, Java), Computer Algorithms
 
 ---
 
@@ -95,11 +94,11 @@ Mobile: +880-1790187189
 ---
 
 ## Contacts
- 
+
 **Phone:** +880 1868-406894  
 **Email:** [ashrafamit9227@gmail.com](mailto:ashrafamit9227@gmail.com)  
-**LinkedIn:** [linkedin.com/in/ashraf-ul-alam-amit](https://www.linkedin.com/in/ashraf-ul-alam-amit)
-**Address:** 25/2, Nabakalash, Matlabganj, Matlab South, Chandpur-3640, Bangladesh 
+**LinkedIn:** [linkedin.com/in/ashraf-ul-alam-amit](https://www.linkedin.com/in/ashraf-ul-alam-amit)  
+**Address:** 25/2, Nabakalash, Matlabganj, Matlab South, Chandpur-3640, Bangladesh
 
 
 
