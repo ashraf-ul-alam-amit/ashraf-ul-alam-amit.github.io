@@ -32,19 +32,20 @@ author:
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
+  github           : "ashraf-ul-alam-amit"
+  linkedin         : "https://www.linkedin.com/in/ashraf-ul-alam-amit"
+  researchgate     : "https://www.researchgate.net/profile/Ashraf-Ul-Alam"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=XdjNm9MAAAAJ"
   # impactstory      : # URL
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Ashraf-Ul-Alam"
   orcid            : "https://orcid.org/0009-0004-0693-4872"
-  linkedin         : "https://www.linkedin.com/in/ashraf-ul-alam-amit"
+  
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ashraf-ul-alam-amit"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
