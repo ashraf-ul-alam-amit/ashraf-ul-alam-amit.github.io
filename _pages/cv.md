@@ -54,7 +54,7 @@ redirect_from:
 *Python, Flask API, HTML, CSS*  
 - Performed comprehensive exploratory data analysis and feature engineering to enhance the accuracy of a CKD prediction model. Deployed the model using Flask API and designed a user-friendly web interface with HTML and CSS for CKD risk assessment.
 
-### **Deepfake Image Detection using VGG16 and Channel Attention** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection)  
+### **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection)  
 *VGG16, Channel Attention, ResNet50, Deepfake*  
 - Focused on detecting deepfake images using the [140k Real and Fake Faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces/data) dataset. Employed VGG16 as the primary feature extractor, then introduced a **channel attention mechanism** to prioritize relevant feature vectors and finally achieved a high classification accuracy of 99.80%. Further, conducted an **ablation study** with ResNet50.
 
