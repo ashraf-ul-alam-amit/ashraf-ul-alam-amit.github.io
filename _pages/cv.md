@@ -54,6 +54,14 @@ redirect_from:
 *Python, Flask API, HTML, CSS*  
 - Performed comprehensive exploratory data analysis and feature engineering to enhance the accuracy of a CKD prediction model. Deployed the model using Flask API and designed a user-friendly web interface with HTML and CSS for CKD risk assessment.
 
+### **Deepfake Image Detection using VGG16 and Channel Attention** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection)  
+*VGG16, Channel Attention, ResNet50, Deepfake*  
+- Focused on detecting deepfake images using the [140k Real and Fake Faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces/data) dataset. Employed VGG16 as the primary feature extractor, then introduced a **channel attention mechanism** to prioritize relevant feature vectors and finally achieved a high classification accuracy of 99.80%. Further, conducted an **ablation study** with ResNet50.
+
+### **Cardiotocogram Data Analysis for Fetal Health Classification Using Machine Learning** [[Project]](https://github.com/ashraf-ul-alam-amit/fetal_health) [[Slide]](https://github.com/ashraf-ul-alam-amit/fetal_health/blob/master/fetal_health.pdf)  
+*Random Forest, K-Nearest Neighbors, Gradient Boosting, SMOTE*  
+- Aimed to classify fetal health status from Cardiotocogram (CTG) data using machine learning models. Utilized a dataset of 2,126 records with 21 features. Applied models like Random Forest, K-Nearest Neighbors, and Gradient Boosting, achieving the highest accuracy of **98.47%**. Employed feature selection, data standardization, and SMOTE to enhance performance.
+
 ### **Maternal and Child Health Care**  [[Project]](https://github.com/ashraf-ul-alam-amit/Maternal_Care)
 *HTML, CSS, PHP, MySQL, Android Studio, Java, XML, Firebase Database*  
 - Developed a responsive website for Maternal and Child Health Care featuring due date calculations, immunization schedules, personalized notifications, and a query posting feature. Created a mobile app using Android Studio and Firebase with the same features.
