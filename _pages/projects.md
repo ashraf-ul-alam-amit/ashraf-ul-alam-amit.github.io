@@ -33,6 +33,12 @@ This initiative involved creating a comprehensive Maternal and Child Health Care
 
 ---
 
+## **Cardiotocogram Data Analysis for Fetal Health Classification Using Machine Learning [[Project]](https://github.com/ashraf-ul-alam-amit/fetal_health) [[Slide]](https://github.com/ashraf-ul-alam-amit/fetal_health/blob/master/fetal_health.pdf)**  
+### *Ashraf Ul Alam*
+
+This project aims to classify fetal health status using machine learning models applied to Cardiotocogram (CTG) data. The dataset consists of 2,126 records with 21 features extracted from CTG exams, categorized into three classes: Normal, Suspect, and Pathological. Models like Random Forest, K-Nearest Neighbors, and Gradient Boosting were trained on the preprocessed dataset. Feature selection, data standardization, and SMOTE were employed to improve model performance. Random Forest achieved the highest accuracy of 98.47%. This project showcases how machine learning can assist in automating and improving fetal health assessment.
+
+---
 
 
 
