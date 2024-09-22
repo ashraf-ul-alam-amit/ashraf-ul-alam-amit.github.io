@@ -14,9 +14,9 @@ My diverse projects range from optimizing neural networks for healthcare to addr
 Always on the lookout for innovative opportunities to explore and collaborate. Let’s connect and build something innovative together!
 
 ## Research Interests
-- **Machine Learning**
-- **Computer Vision**
-- **Medical Imaging**
-- **Natural Language Processing**
-- **Domain Adaptation**
+- Machine Learning
+- Computer Vision
+- Medical Imaging
+- Natural Language Processing
+- Domain Adaptation
 
