@@ -88,14 +88,14 @@ redirect_from:
 
 ## References
 
-**S. M. Mahedy Hasan** *(Undergrad Thesis Supervisor)*  
+**[S. M. Mahedy Hasan](https://www.ruet.ac.bd/mahedycseruet)** *(Undergrad [Thesis](https://github.com/ashraf-ul-alam-amit/KD-UDA) Supervisor)*  
 Assistant Professor  
 Dept. of Computer Science & Engineering  
 Rajshahi University of Engineering & Technology  
 Mobile: +880-1870100318  
 Email: [mahedy@cse.ruet.ac.bd](mailto:mahedy@cse.ruet.ac.bd)
 
-**Md. Azmain Yakin Srizon** *(Project Supervisor)*  
+**[Md. Azmain Yakin Srizon](https://www.ruet.ac.bd/azmainsrizon)** *([Project](https://github.com/ashraf-ul-alam-amit/BanglaOngko) Supervisor)*  
 Assistant Professor  
 Dept. of Computer Science & Engineering  
 Rajshahi University of Engineering & Technology  
