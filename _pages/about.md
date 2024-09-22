@@ -12,3 +12,11 @@ I’m Ashraf, a researcher passionate about solving real-world problems through 
 My diverse projects range from optimizing neural networks for healthcare to addressing OCR challenges with complex scripts like Bengali. Notable projects include *[Real-time Cycle Thief Detection](https://github.com/ashraf-ul-alam-amit/cycle_theif)* using YOLOv5 and DeepSORT and advanced medical image segmentation with *[knowledge distillation](https://github.com/ashraf-ul-alam-amit/KD-UDA)*. Currently, I’m exploring ***Natural Language Processing and Large Language Models***, finding them both fascinating and full of potential. 
 
 Always on the lookout for innovative opportunities to explore and collaborate. Let’s connect and build something innovative together!
+
+## Research Interests
+- **Machine Learning**
+- **Computer Vision**
+- **Medical Imaging**
+- **Natural Language Processing**
+- **Domain Adaptation**
+
