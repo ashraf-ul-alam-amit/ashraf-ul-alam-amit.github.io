@@ -46,7 +46,7 @@ redirect_from:
 
 ## Projects
 
-### **Cycle Thief Detection from Live CCTV Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
+### **Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 *OpenCV, YOLOv5, DeepSORT, KD-Tree, Face_Matcher*  
 - Developed a real-time cycle thief detection system utilizing YOLOv5 for object detection, DeepSORT for tracking, KD-Tree algorithm for efficient nearest neighbor search, and Face_Matcher for facial recognition from live CCTV footage.
 
