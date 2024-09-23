@@ -46,6 +46,13 @@ This project aims to classify fetal health status using machine learning models 
 
 ---
 
+## **Implementation and Analysis of Neural Networks for Liver Disease Diagnosis [[Project]](https://github.com/ashraf-ul-alam-amit/Study-on-Neural-Networks-for-Liver-Disease-Diagnosis)**  
+### *Ashraf Ul Alam*
+
+This study is part of my Neural Networks course, where I implemented and analyzed various neural networks and machine learning algorithms from scratch to gain a deeper understanding of how these models function. The project focuses on classifying liver disease using the [Indian Liver Patient Dataset](https://www.kaggle.com/datasets/uciml/indian-liver-patient-records) and explores a variety of learning techniques. The study includes the development of models such as *K-Nearest Neighbors, Single Layer Perceptron, Multi-Layer Perceptron, Kohonen Self-Organizing Map, and Hopfield Neural Networks*. An Exploratory Data Analysis (EDA) was conducted to gain insights into the dataset before model training. Detailed reports and code for each algorithm are provided, showcasing the analysis, findings, and implementations of the algorithms.
+
+---
+
 
 
 
