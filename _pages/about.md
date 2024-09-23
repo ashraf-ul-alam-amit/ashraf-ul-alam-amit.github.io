@@ -20,4 +20,6 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
 - Medical Imaging
 - Natural Language Processing
 - Domain Adaptation
+- Unsupervised Learning
+- Self-supervised Learning
 
