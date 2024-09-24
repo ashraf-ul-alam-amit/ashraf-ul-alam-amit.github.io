@@ -19,7 +19,7 @@ The KD-UDA project focuses on enhancing segmentation performance across unseen t
 
 ---
 
-## **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection)**  
+## **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection) [[Poster]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection/blob/master/poster.pdf)**  
 ### *Ashraf Ul Alam, Sudipta Progga Islam*
 
 This project focuses on detecting deepfake images using the [140k Real and Fake Faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces/data) dataset from Kaggle. The VGG16 model, known for its deep architecture, was employed as the primary feature extractor. To enhance performance, a **channel attention mechanism** was introduced, allowing the model to prioritize relevant feature channels while reducing the impact of less useful ones. This resulted in a significant improvement in classification accuracy. Additionally, an **ablation study** was conducted using ResNet50, demonstrating how attention mechanisms improve feature representation. The final model achieved a high accuracy of **99.80%** with [VGG16 and channel attention](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection/blob/master/vgg_channel-attention.ipynb), making it an effective solution for detecting deepfake images.
