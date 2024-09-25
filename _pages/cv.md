@@ -66,6 +66,10 @@ redirect_from:
 *HTML, CSS, PHP, MySQL, Android Studio, Java, XML, Firebase Database*  
 - Developed a responsive website for Maternal and Child Health Care featuring due date calculations, immunization schedules, personalized notifications, and a query posting feature. Created a mobile app using Android Studio and Firebase with the same features.
 
+### **Implementation and Analysis of Neural Networks for Liver Disease Diagnosis [[Project]](https://github.com/ashraf-ul-alam-amit/Study-on-Neural-Networks-for-Liver-Disease-Diagnosis)**  
+*KNN, Single Layer Perceptron, MLP, Kohonen Self-Organizing Map, Hopfield Neural Networks*
+- Implemented and analyzed various neural networks and machine learning algorithms from scratch to gain a deeper understanding of how these models function. The project focuses on classifying liver disease using the [Indian Liver Patient Dataset](https://www.kaggle.com/datasets/uciml/indian-liver-patient-records) and explores a variety of learning techniques. 
+
 ### **RSMS: Retail Store Management System**  [[Project]](https://github.com/ashraf-ul-alam-amit/Retail-Store-Management-System)
 *Android Studio, Java, XML, Firebase Database*  
 - Implemented a mobile application to streamline retail store operations, including inventory management and sales tracking.
