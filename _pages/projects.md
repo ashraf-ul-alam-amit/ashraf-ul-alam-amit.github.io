@@ -4,7 +4,7 @@ permalink: /projects/
 ---
 
 ---
-
+<!--
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; padding-right: 20px;">
@@ -19,11 +19,15 @@ permalink: /projects/
       </p>
     </td>
     <td style="border: none;">
-      <img src="https://github.com/ashraf-ul-alam-amit/cycle_theif/blob/master/FlowCharts/cycle_thief_flowchart_modules.png" width="500" />
+      <img src="https://github.com/ashraf-ul-alam-amit/cycle_theif/blob/master/FlowCharts/cycle_thief_flowchart_modules.png" width="1500" />
     </td>
   </tr>
 </table>
+-->
+## **Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif) [[Sample]](https://drive.google.com/file/d/1hRaNBUr8qKRgM-IGYBAFS8Z2d4haFuB7/view)**  
+### *Ashraf Ul Alam, Soumit Das*
 
+This project involves the development of a real-time cycle thief detection system utilizing advanced technologies. [YOLOv5](https://github.com/ultralytics/yolov5) is employed for object detection, enabling the system to identify cycles in realtime footage. [DeepSORT](https://github.com/nwojke/deep_sort) is integrated for tracking the detected objects across frames, while the KD-Tree algorithm enhances the efficiency of nearest neighbor searches. Additionally, the Face_Matcher tool is used for facial recognition, further aiding in the identification of suspects. Together, these components create a robust solution for monitoring and addressing cycle theft in real-time.
 
 ---
 
