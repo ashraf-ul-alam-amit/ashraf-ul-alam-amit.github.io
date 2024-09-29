@@ -5,10 +5,10 @@ permalink: /projects/
 
 ---
 
-<table border="0">
-  <tr>
-    <td>
-      <h2>Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT <a href="https://github.com/ashraf-ul-alam-amit/cycle_theif">[Project]</a> <a href="https://drive.google.com/file/d/1hRaNBUr8qKRgM-IGYBAFS8Z2d4haFuB7/view">[Sample Video]</a></h2>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+      <h2>Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT <a href="https://github.com/ashraf-ul-alam-amit/cycle_theif">[Project]</a> <a href="https://drive.google.com/file/d/1hRaNBUr8qKRgM-IGYBAFS8Z2d4haFuB7/view">[Sample]</a></h2>
       <p><i><strong>Ashraf Ul Alam, Soumit Das</strong></i></p>
       <p>
       This project involves the development of a real-time cycle thief detection system utilizing advanced technologies. 
@@ -18,11 +18,12 @@ permalink: /projects/
       Together, these components create a robust solution for monitoring and addressing cycle theft in real-time.
       </p>
     </td>
-    <td>
-      <img src="https://github.com/ashraf-ul-alam-amit/cycle_theif/blob/master/FlowCharts/cycle_thief_flowchart_modules.png" width="1500" />
+    <td style="border: none;">
+      <img src="https://github.com/ashraf-ul-alam-amit/cycle_theif/blob/master/FlowCharts/cycle_thief_flowchart_modules.png" width="500" />
     </td>
   </tr>
 </table>
+
 
 ---
 
