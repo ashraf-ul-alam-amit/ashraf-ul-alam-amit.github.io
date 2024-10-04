@@ -38,6 +38,14 @@ The KD-UDA project focuses on enhancing segmentation performance across unseen t
 
 ---
 
+## **NeuroSeg3D: 3D Attention U-Net for Accurate Brain Tumor Segmentation (BraTS2021) [[Project]](https://github.com/ashraf-ul-alam-amit/NeuroSeg3D)**
+
+### *Ashraf Ul Alam*
+
+**NeuroSeg3D** is an advanced 3D U-Net architecture enhanced with **residual blocks** and **spatial attention** modules, designed to effectively capture fine spatial features from MRI images. Utilizing the [**BraTS 2021 dataset**](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1) from Kaggle, the model aims to accurately segment brain tumors by focusing on relevant spatial information. The training process was stable, with smooth convergence, demonstrating effective learning and minimal signs of overfitting. Quantitative results show that **NeuroSeg3D** achieved a **Mean Dice** score of 84.42% and a **Mean IoU** score of 75.86% on the validation set, highlighting its strong performance and generalization capabilities in differentiating tumor regions from healthy tissues in MRI scans.
+
+---
+
 ## **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection) [[Poster]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection/blob/master/poster.pdf)**  
 ### *Ashraf Ul Alam, Sudipta Progga Islam*
 
