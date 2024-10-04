@@ -50,6 +50,10 @@ redirect_from:
 *OpenCV, YOLOv5, DeepSORT, KD-Tree, Face_Matcher*  
 - Developed a real-time cycle thief detection system utilizing YOLOv5 for object detection, DeepSORT for tracking, KD-Tree algorithm for efficient nearest neighbor search, and Face_Matcher for facial recognition from live CCTV footage.
 
+### **NeuroSeg3D: 3D Attention U-Net for Accurate Brain Tumor Segmentation (BraTS2021)** [[Project]](https://github.com/ashraf-ul-alam-amit/NeuroSeg3D)  
+*3D U-Net, Residual Blocks, Spatial Attention*  
+- Developed the **NeuroSeg3D** architecture, enhanced with residual blocks and spatial attention modules, for accurate brain tumor segmentation. Demonstrated the model's performance using the [**BraTS 2021 dataset**](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1), effectively capturing spatial features from MRI images.
+
 ### **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 *Python, Flask API, HTML, CSS*  
 - Performed comprehensive exploratory data analysis and feature engineering to enhance the accuracy of a CKD prediction model. Deployed the model using Flask API and designed a user-friendly web interface with HTML and CSS for CKD risk assessment.
