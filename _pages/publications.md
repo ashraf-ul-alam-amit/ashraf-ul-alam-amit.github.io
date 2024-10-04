@@ -25,4 +25,12 @@ permalink: /publications/
 - **Conference Date:** 06 September, 2023
 
 ---
+<!--
+## ([Thesis](https://github.com/ashraf-ul-alam-amit/KD-UDA)) KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation
+- Authors: *Ashraf Ul Alam*, [S. M. Mahedy Hasan (Supervisor)](https://www.ruet.ac.bd/mahedycseruet)
+- Institution: Rajshahi University of Engineering & Technology
+- Thesis Defence: 28 April, 2024
+
+---
+-->
 
