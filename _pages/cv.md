@@ -15,7 +15,7 @@ redirect_from:
 *Bachelor of Science in Computer Science and Engineering*  
 *2019 - 2024 | CGPA: 3.44 out of 4.00*
 
-**Relevant Coursework:** Applied Statistics & Queuing Theory (Python), Neural Networks & Fuzzy Systems, Data Mining, Artificial Intelligence, Digital Image Processing, Database Systems, Parallel and Distributed Processing, Digital Signal Processing, Data Structure (C), Object Oriented Programming (C++, Java), Computer Algorithms
+**Relevant Coursework:** Neural Networks & Fuzzy Systems, Data Mining, Artificial Intelligence, Digital Image Processing, Database Systems, Parallel and Distributed Processing, Digital Signal Processing, Data Structure (C), Object Oriented Programming (C++, Java), Computer Algorithms, Applied Statistics & Queuing Theory (Python)
 
 ---
 
