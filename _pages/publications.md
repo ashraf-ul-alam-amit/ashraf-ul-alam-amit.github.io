@@ -1,4 +1,7 @@
-
+---
+title: ""
+permalink: /publications/
+---
 ---
 
 ## Optic Disc and Cup Segmentation via Enhanced U-Net with Residual and Attention Mechanisms
