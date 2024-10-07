@@ -19,6 +19,16 @@ redirect_from:
 
 ---
 
+## Experiences
+
+### Young Learners' Research Lab 
+**Research Assistant** *(March 2023 - May 2024)*  
+*Lab Head and Supervisor: [Md. Azmain Yakin Srizon](https://www.ruet.ac.bd/azmainsrizon)*
+
+Key responsibilities included designing optimized CNNs for medical image analysis, constructing OCR datasets, and developing algorithms for extracting handwritten Bengali text. Additionally, published two conference papers in *Taylor & Francis* and *IEEE*.
+
+---
+
 ## Publications
 
 ### **Optic Disc and Cup Segmentation via Enhanced U-Net with Residual and Attention Mechanisms**  
