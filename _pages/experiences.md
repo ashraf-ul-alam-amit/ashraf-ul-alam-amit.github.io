@@ -5,7 +5,7 @@ permalink: /experiences/
 
 # Young Learners' Research Lab 
 **Research Assistant** *(March 2023 - May 2024)*  
-***Lab Head and Supervisor: [Azmain Yakin Srizon](https://www.ruet.ac.bd/azmainsrizon)***
+***Lab Head and Supervisor: [Md. Azmain Yakin Srizon](https://www.ruet.ac.bd/azmainsrizon)***
 
 In this role, I focused on **Computer Vision** and **Medical Image Analysis**. My responsibilities included:
 
