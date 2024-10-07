@@ -1,9 +1,8 @@
-<!--
 ---
-title: "Projects"
+title: ""
 permalink: /projects/
 ---
-
+<!--
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; padding-right: 20px;">
