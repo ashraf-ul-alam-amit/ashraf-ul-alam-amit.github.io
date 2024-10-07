@@ -1,10 +1,9 @@
+<!--
 ---
 title: "Projects"
 permalink: /projects/
 ---
 
----
-<!--
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; padding-right: 20px;">
@@ -24,6 +23,8 @@ permalink: /projects/
   </tr>
 </table>
 -->
+---
+
 ## **Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif) [[Sample]](https://drive.google.com/file/d/1hRaNBUr8qKRgM-IGYBAFS8Z2d4haFuB7/view)**  
 ### *Ashraf Ul Alam, Soumit Das*
 
