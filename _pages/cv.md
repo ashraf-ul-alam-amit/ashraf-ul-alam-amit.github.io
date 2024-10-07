@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## [CV](https://ashraf-ul-alam-amit.github.io/pdf/CV.pdf)
+## [Pdf Copy](https://ashraf-ul-alam-amit.github.io/pdf/CV.pdf)
 ---
 
 ## Education
