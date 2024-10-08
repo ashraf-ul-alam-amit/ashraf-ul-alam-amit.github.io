@@ -9,8 +9,8 @@ permalink: /experiences/
 In this role, I focused on *Computer Vision* and *Medical Image Analysis*. My responsibilities included:
 
 - Designing opimized Convolutional Neural Networks for medical image analysis
-- Collecting and constructing datasets for OCR
-- Designing algorithms for optimized Optical Character Recognition (OCR) to extract handwritten Bengali text from images
+- Collecting and constructing datasets for Optical Character Recognition (OCR)
+- Designing algorithms for optimized OCR to extract handwritten Bengali text from images
 
 During that time, I published two conference papers in *Taylor & Francis* and *IEEE*.
 
