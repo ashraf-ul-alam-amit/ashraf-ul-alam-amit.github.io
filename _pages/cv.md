@@ -19,6 +19,11 @@ redirect_from:
 
 ---
 
+## Standardized Test Scores 
+IELTS: Overall 7.0 (Listening: 8.0, Reading: 6.5, Writing: 7.0 & Speaking: 6.5)
+
+---
+
 ## Experiences
 
 ### Young Learners' Research Lab 
