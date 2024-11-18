@@ -8,11 +8,12 @@ permalink: /projects/
     <td style="border: none; vertical-align: top; padding-right: 20px;">
       <h2>Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT <a href="https://github.com/ashraf-ul-alam-amit/cycle_theif">[Project]</a> <a href="https://drive.google.com/file/d/1hRaNBUr8qKRgM-IGYBAFS8Z2d4haFuB7/view">[Sample]</a></h2>
       <p><i><strong>Ashraf Ul Alam, Soumit Das</strong></i></p>
-      This project involves the development of a real-time cycle thief detection system utilizing advanced technologies. 
+      <p>This project involves the development of a real-time cycle thief detection system utilizing advanced technologies. 
       <a href="https://github.com/ultralytics/yolov5">YOLOv5</a> is employed for object detection, enabling the system to identify cycles in realtime footage. 
       <a href="https://github.com/nwojke/deep_sort">DeepSORT</a> is integrated for tracking the detected objects across frames, while the KD-Tree algorithm enhances the efficiency of nearest neighbor searches. 
       Additionally, the Face_Matcher tool is used for facial recognition, further aiding in the identification of suspects. 
       Together, these components create a robust solution for monitoring and addressing cycle theft in real-time.
+        </p>
     </td>
     <td style="border: none;">
       <img src="https://github.com/ashraf-ul-alam-amit/cycle_theif/blob/master/FlowCharts/cycle_thief_flowchart_modules.png" width="1500" />
@@ -44,7 +45,7 @@ The KD-UDA project focuses on enhancing segmentation performance across unseen t
 
 ---
 
-## **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection) [[Poster]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection/blob/master/poster.pdf)**  {#deep-fake}
+## **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection{#deep-fake} [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection) [[Poster]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection/blob/master/poster.pdf)**  
 ### *Ashraf Ul Alam, Sudipta Progga Islam*
 
 This project focuses on detecting deepfake images using the [140k Real and Fake Faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces/data) dataset from Kaggle. The VGG16 model, known for its deep architecture, was employed as the primary feature extractor. To enhance performance, a **channel attention mechanism** was introduced, allowing the model to prioritize relevant feature channels while reducing the impact of less useful ones. This resulted in a significant improvement in classification accuracy. Additionally, an **ablation study** was conducted using ResNet50, demonstrating how attention mechanisms improve feature representation. The final model achieved a high accuracy of **99.80%** with [VGG16 and channel attention](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection/blob/master/vgg_channel-attention.ipynb), making it an effective solution for detecting deepfake images.
