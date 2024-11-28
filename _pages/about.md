@@ -18,6 +18,7 @@ I’m Ashraf, a researcher passionate about solving real-world problems through 
 - Computer Vision
 - Medical Imaging
 - Natural Language Processing
+- Cybersecurity
 - Domain Adaptation
 - Unsupervised Learning
 - Self-supervised Learning
