@@ -2,11 +2,6 @@
 title: "Publications"
 permalink: /publications/
 ---
-
----
-title: "Publications"
-permalink: /publications/
----
 ---
 
 ## Journals
