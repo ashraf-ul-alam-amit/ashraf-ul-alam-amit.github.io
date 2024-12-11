@@ -36,6 +36,20 @@ Key responsibilities included designing optimized CNNs for medical image analysi
 
 ## Publications
 
+### Journals
+1. **Ashraf Ul Alam**, S. M. Hasan, S. P. Islam, and M. P. Uddin, "PRODIA: A Probability Distribution Alignment Framework for Unsupervised Domain Adaptation in Medical Image Segmentation," *Computers in Biology and Medicine*, Under Review.
+
+### Conferences
+1. **Ashraf Ul Alam**, S. P. Islam, S. M. Hasan, A. Y. Srizon, M. F. Faruk, M. Al Mamun, and M. R. Hossain, "Optic Disc and Cup Segmentation via Enhanced U-Net with Residual and Attention Mechanisms," *2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, IEEE, 2024, pp. 329–334, doi: [10.1109/ICEEICT62016.2024.10534436](https://doi.org/10.1109/ICEEICT62016.2024.10534436). ***[Nominated for Best Poster Award at ICEEICT 2024]***
+2. S. P. Islam and **Ashraf Ul Alam**, "Advancing Ophthalmology through Transfer Learning and Channel-Wise Attention for Retinal Disease Classification," *2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, IEEE, 2024, pp. 313–318, doi: [10.1109/ICEEICT62016.2024.10534342](https://doi.org/10.1109/ICEEICT62016.2024.10534342).
+
+### Book Chapters
+1. S. Das, **Ashraf Ul Alam**, S. P. Islam, A. Y. Srizon, "BanglaOngko: A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture," *Proceedings of the 2nd International Conference on Big Data, IoT and Machine Learning (BIM 2023)*, Taylor and Francis, Accepted.
+
+
+<!--
+## Publications
+
 ### **Optic Disc and Cup Segmentation via Enhanced U-Net with Residual and Attention Mechanisms**  
 *ICEEICT 2024 | IEEE Xplore*  | [DOI: 10.1109/ICEEICT62016.2024.10534436](https://doi.org/10.1109/ICEEICT62016.2024.10534436)  
 - Evaluated various pretrained models as U-Net backbones, validated across Drishti-GS, REFUGE, and RIM-ONE-R3 datasets, and developed an enhanced U-Net with residual and attention mechanisms.
@@ -48,6 +62,7 @@ Key responsibilities included designing optimized CNNs for medical image analysi
 ### **Advancing Ophthalmology through Transfer Learning and Channel-wise Attention for Retinal Disease Classification**  
 *ICEEICT 2024 | IEEE Xplore*  | [DOI: 10.1109/ICEEICT62016.2024.10534342](https://doi.org/10.1109/ICEEICT62016.2024.10534342)  
 - Developed a hybrid model merging EfficientNetB0 and InceptionV3 with channel-wise attention, improving discriminative ability by dynamically adjusting attention across channels, outperforming state-of-the-art models.
+-->
 
 ---
 
