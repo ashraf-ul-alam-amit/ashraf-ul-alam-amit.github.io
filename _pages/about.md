@@ -16,12 +16,10 @@ I’m Ashraf, a researcher passionate about solving real-world problems through 
 ***Research Areas***
 - Machine Learning
 - Computer Vision
-- Medical Imaging
-- Natural Language Processing
 - Cybersecurity
+- Natural Language Processing
 - Domain Adaptation
-- Unsupervised Learning
-- Self-supervised Learning
+- Medical Imaging
 
 Always on the lookout for innovative opportunities to explore and collaborate. Let’s connect and build something innovative together!
 
