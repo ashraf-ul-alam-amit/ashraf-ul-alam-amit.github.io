@@ -44,7 +44,7 @@ Key responsibilities included designing optimized CNNs for medical image analysi
 2. S. P. Islam and **Ashraf Ul Alam**, "Advancing Ophthalmology through Transfer Learning and Channel-Wise Attention for Retinal Disease Classification," *2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, IEEE, 2024, pp. 313–318, doi: [10.1109/ICEEICT62016.2024.10534342](https://doi.org/10.1109/ICEEICT62016.2024.10534342).
 
 ### Book Chapters
-1. S. Das, **Ashraf Ul Alam**, S. P. Islam, A. Y. Srizon, "BanglaOngko: A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture," *Proceedings of the 2nd International Conference on Big Data, IoT and Machine Learning (BIM 2023)*, Taylor and Francis, Accepted.
+1. S. Das, **Ashraf Ul Alam**, S. P. Islam, A. Y. Srizon, "BanglaOngko: A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture," *Data Driven Applications for Emerging Technologies, 2nd International Conference on Big Data, IoT and Machine Learning (BIM 2023)* Taylor and Francis, pp. 43-57, Proofreading Stage.
 
 
 <!--
