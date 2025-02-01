@@ -32,14 +32,14 @@ This project involves the development of a real-time cycle thief detection syste
 
 ---
 
-## **Cyber Threat Report Summarization with FLAN-T5 and LoRA [[Project]](https://github.com/ashraf-ul-alam-amit/FLAN-T5-Fine-Tuning-for-Cyber-Doc-Summarization) [[Dataset]](https://huggingface.co/datasets/JamesLin0219/cyberSummarization)**  
+## **Cyber Threat Report Summarization Using FLAN-T5 with LoRA Adaptation [[Project]](https://github.com/ashraf-ul-alam-amit/FLAN-T5-Fine-Tuning-for-Cyber-Doc-Summarization) [[Dataset]](https://huggingface.co/datasets/JamesLin0219/cyberSummarization)**  
 ### *Ashraf Ul Alam*
 
 This project focuses on improving the summarization of cyber threat reports using the [FLAN-T5](https://huggingface.co/docs/transformers/en/model_doc/flan-t5) model with Low-Rank Adaptation (LoRA). FLAN-T5 is a pre-trained transformer model, optimized for instruction-based tasks, making it ideal for generating concise and accurate summaries. LoRA is integrated to efficiently fine-tune the model by reducing the number of trainable parameters, thus enabling performance improvements even on limited hardware. The approach leverages structured cyber threat reports to train the model, allowing for quick decision-making in threat mitigation. The effectiveness of the model is evaluated using various NLP metrics, including [ROUGE](https://huggingface.co/spaces/evaluate-metric/rouge) and [BERTScore](https://huggingface.co/spaces/evaluate-metric/bertscore), demonstrating superior performance over the base model.
 
 ---
 
-## **Phishing URL Classification with DistilBERT and LoRA [[Project]](https://github.com/ashraf-ul-alam-amit/DistilBERT-Fine-Tuning-for-Phishing-Urls-Detection)**  
+## **Parameter Efficient Fine-tuning of DistilBERT with LoRA for Phishing URL Detection [[Project]](https://github.com/ashraf-ul-alam-amit/DistilBERT-Fine-Tuning-for-Phishing-Urls-Detection)**  
 ### *Ashraf Ul Alam*
 
 This project focuses on detecting phishing URLs using the [DistilBERT](https://huggingface.co/docs/transformers/en/model_doc/distilbert) model, enhanced with Low-Rank Adaptation (LoRA) for improved performance. Phishing URLs, which deceive users into visiting harmful websites, pose significant cybersecurity risks. The model classifies URLs as either Phishing or Non-phishing using a sequence classification approach. The dataset, [Phishing URLs](https://huggingface.co/datasets/kmack/Phishing_urls), is used to train and evaluate the model. LoRA is applied to adapt the pre-trained [DistilBERT Base Uncased](https://huggingface.co/distilbert/distilbert-base-uncased) model, allowing for efficient training and fine-tuning while reducing the number of trainable parameters. This adaptation results in significant improvements, achieving an [F1 score](https://huggingface.co/evaluate-metric) of **84.23%** after fine-tuning, compared to **57.88%** with the base model. The project highlights the effectiveness of LoRA in enhancing phishing detection accuracy without overfitting.
