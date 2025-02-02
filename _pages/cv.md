@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## [Pdf Copy](https://ashraf-ul-alam-amit.github.io/pdf/CV_.pdf)
+## [Pdf Copy](https://ashraf-ul-alam-amit.github.io/pdf/CV-Full.pdf)
 ---
 
 ## Education
@@ -75,6 +75,14 @@ Key responsibilities included designing optimized CNNs for medical image analysi
 ---
 
 ## Projects
+
+### **Cyber Threat Report Summarization Using FLAN-T5 with LoRA Adaptation**  [[Project]](https://github.com/ashraf-ul-alam-amit/FLAN-T5-Fine-Tuning-for-Cyber-Doc-Summarization)
+*Pytorch, FLAN-T5, LoRA, Transformers, Text Summarization*  
+- Implemented a cyber threat report summarization model using FLAN-T5 for text generation. Applied LoRA to enhance fine-tuning efficiency, enabling better extraction of critical threat information while preserving important details in the summaries.
+
+### **Parameter Efficient Fine-tuning of DistilBERT with LoRA for Phishing URL Detection**  [[Project]](https://github.com/ashraf-ul-alam-amit/DistilBERT-Fine-Tuning-for-Phishing-Urls-Detection)
+*DistilBERT, LoRA, Transformers, Text Classification*  
+- Fine-tuned a DistilBERT model for phishing URL detection, incorporating LoRA adaptors to significantly enhance performance, while optimizing the model for efficient use in resource-constrained environments.
 
 ### **Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 *OpenCV, YOLOv5, DeepSORT, KD-Tree, Face_Matcher*  
