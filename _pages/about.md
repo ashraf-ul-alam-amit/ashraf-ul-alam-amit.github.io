@@ -19,9 +19,9 @@ I’m Ashraf, a researcher passionate about solving real-world problems through 
 ***Research Areas***  
 
 <!-- Research Areas Section -->
-<div style="background: #f8f9fa; padding: 12px 18px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 100%; max-width: 600px;">
-  <h3 style="font-size: 18px; font-weight: bold; color: #007bff; margin-bottom: 10px;">🔬 Research Areas</h3>
-
+<div style="background: #f8f9fa; padding: 12px 18px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 100%; height: 100px;">
+<!--   <h3 style="font-size: 18px; font-weight: bold; color: #007bff; margin-bottom: 10px;">🔬 Research Areas</h3>
+ -->
   <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 10px;">
     <span style="font-size: 14px; font-weight: 500; color: #333;">📌 Computer Vision</span>
     <span style="font-size: 14px; font-weight: 500; color: #333;">•• Domain Adaptation</span>
@@ -42,7 +42,7 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
 
 
 <!-- News & Updates Section -->
-<div style="background: #f8f9fa; padding: 12px 18px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 100%; height: 400px;">
+<div style="background: #f8f9fa; padding: 12px 18px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 100%; height: 200px;">
   <h3 style="margin: 0; font-size: 16px; color: #007bff; font-weight: bold;">📢 Latest Updates</h3>
   
   <!-- Scrollable News List -->
