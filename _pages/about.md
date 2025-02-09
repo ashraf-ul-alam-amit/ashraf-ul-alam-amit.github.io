@@ -12,7 +12,6 @@ I’m Ashraf, a researcher passionate about solving real-world problems through 
 <!--I've developed advanced frameworks for medical image segmentation and classification and worked with SOTA models to enhance AI applications.-->
 
 **A Glimpse into My Projects :** My diverse projects range from optimizing neural networks for healthcare to addressing OCR challenges with complex scripts like Bengali. Notable projects include *[Real-time Cycle Thief Detection](https://github.com/ashraf-ul-alam-amit/cycle_theif)* 🚴‍♂️ using YOLOv5 and DeepSORT and unsupervised medical image segmentation with *[knowledge distillation](https://github.com/ashraf-ul-alam-amit/KD-UDA)* 🧠. Currently, I’m exploring *Natural Language Processing and Large Language Models*, finding them both fascinating and full of potential. 
-<br>
 <a href="/projects" style="background: #007bff; color: #fff; padding: 4px 10px; border-radius: 5px; font-size: 12px; text-decoration: none;">
     View All Projects →
 </a>
@@ -37,7 +36,7 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
 
 
 <!-- News & Updates Section -->
-<div style="background: #f8f9fa; padding: 12px 18px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 100%; max-width: 400px;">
+<div style="background: #f8f9fa; padding: 12px 18px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); width: 100%;">
   <h3 style="margin: 0; font-size: 16px; color: #007bff; font-weight: bold;">📢 Latest Updates</h3>
   
   <!-- Scrollable News List -->
