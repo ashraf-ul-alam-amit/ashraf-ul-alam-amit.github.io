@@ -34,4 +34,19 @@ I’m Ashraf, a researcher passionate about solving real-world problems through 
 Always on the lookout for innovative opportunities to explore and collaborate. Let’s connect and build something innovative together!
 
 
+<!-- News & Updates Section -->
+<div style="background: #f8f9fa; padding: 12px 18px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <h3 style="margin: 0; font-size: 16px; color: #007bff; font-weight: bold;">📢 Latest Updates</h3>
+  <ul style="list-style: none; padding: 0; margin: 8px 0 0; font-size: 14px; color: #333; line-height: 1.6;">
+    <li>🔹 Submitted a research paper on <b>Unsupervised Domain Adaptation</b> to <i>Computers in Biology and Medicine</i> (Q1 Journal) — <span style="color: #007bff;">December 2024</span>.</li>
+    <li>🔹 Exploring techniques to <b>Fine-tune LLMs</b> for analyzing cyber threat data — <span style="color: #007bff;">December 2024</span>.</li>
+    <li>🔹 Actively working on <b>Explainable AI & Cybersecurity</b> to enhance AI model interpretability — <span style="color: #007bff;">October 2024</span>.</li>
+  </ul>
+</div>
+
+
+
+
+
+
 
