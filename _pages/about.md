@@ -20,15 +20,15 @@ I’m Ashraf, a researcher passionate about solving real-world problems through 
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <span>📌 Computer Vision</span>
-  <span>•• Domain Adaptation</span>
-  <span>•• Medical Imaging</span>
+  <span>••  Domain Adaptation</span>
+  <span>••  Medical Imaging</span>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <span>📌 NLP & LLMs</span>
-  <span>•• Cybersecurity</span>
-  <span>•• Security and Privacy</span>
-  <span>•• Explainable AI</span>
+  <span>••  Cybersecurity</span>
+  <span>••  Security and Privacy</span>
+  <span>••  Explainable AI</span>
 </div>
 
 <br>
