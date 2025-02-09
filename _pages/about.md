@@ -45,6 +45,9 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
       <li>🔹 Submitted a research paper on <b>Unsupervised Domain Adaptation</b> to <i>Computers in Biology and Medicine</i> (Q1 Journal) — <span style="color: #007bff;">December 2024</span>.</li>
       <li>🔹 Exploring techniques to <b>Fine-tune LLMs</b> for analyzing cyber threat data — <span style="color: #007bff;">December 2024</span>.</li>
       <li>🔹 Actively working on <b>Explainable AI & Cybersecurity</b> to enhance AI model interpretability — <span style="color: #007bff;">October 2024</span>.</li>
+      <li>🔹 Submitted a research paper on <b>Unsupervised Domain Adaptation</b> to <i>Computers in Biology and Medicine</i> (Q1 Journal) — <span style="color: #007bff;">December 2024</span>.</li>
+      <li>🔹 Exploring techniques to <b>Fine-tune LLMs</b> for analyzing cyber threat data — <span style="color: #007bff;">December 2024</span>.</li>
+      <li>🔹 Actively working on <b>Explainable AI & Cybersecurity</b> to enhance AI model interpretability — <span style="color: #007bff;">October 2024</span>.</li>
     </ul>
   </div>
 </div>
