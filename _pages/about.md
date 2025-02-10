@@ -12,6 +12,7 @@ I’m Ashraf, a researcher passionate about solving real-world problems through 
 <!--🧠🚴‍♂️-->
 
 **A Glimpse into My Projects :** My diverse projects range from optimizing neural networks for healthcare to addressing OCR challenges with complex scripts like Bengali. Notable projects include *[Real-time Cycle Thief Detection](https://github.com/ashraf-ul-alam-amit/cycle_theif)* using YOLOv5 and DeepSORT and unsupervised medical image segmentation with *[knowledge distillation](https://github.com/ashraf-ul-alam-amit/KD-UDA)*. Currently, I’m exploring *Natural Language Processing and Large Language Models*, finding them both fascinating and full of potential. 
+<br>
 <a href="/projects" style="background: #007bff; color: #fff; padding: 4px 10px; border-radius: 5px; font-size: 12px; text-decoration: none;">
     View All Projects →
 </a>
@@ -20,7 +21,7 @@ I’m Ashraf, a researcher passionate about solving real-world problems through 
 ***Research Areas***  
 
 <!-- Research Areas Section -->
-<div style="background: #ffffff; padding: 12px 18px; border-radius: 8px; width: 100%; height: 75px;">
+<div style=padding: 12px 18px; border-radius: 8px; width: 100%; height: 75px;">
 <!--   <h3 style="font-size: 18px; font-weight: bold; color: #007bff; margin-bottom: 10px;">🔬 Research Areas</h3>
  -->
   <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 10px;">
