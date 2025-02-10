@@ -21,7 +21,7 @@ I’m Ashraf, a researcher passionate about solving real-world problems through 
 ***Research Areas***  
 
 <!-- Research Areas Section -->
-<div style="padding: 12px 3px; border-radius: 8px; width: 100%; height: 75px;">
+<div style="padding: 2px 18px; border-radius: 8px; width: 100%; height: 75px;">
 <!--   <h3 style="font-size: 18px; font-weight: bold; color: #007bff; margin-bottom: 10px;">🔬 Research Areas</h3>
  -->
   <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 10px;">
