@@ -16,12 +16,12 @@ redirect_from:
 *2019 - 2024 | CGPA: 3.44 out of 4.00*
 
 **Relevant Coursework:** Neural Networks & Fuzzy Systems, Data Mining, Artificial Intelligence, Digital Image Processing, Database Systems, Parallel and Distributed Processing, Digital Signal Processing, Data Structure (C), Object Oriented Programming (C++, Java), Computer Algorithms, Applied Statistics & Queuing Theory (Python)
-
+<!--
 ---
 
 ## Standardized Test Scores 
 IELTS: Overall 7.0 (Listening: 8.0, Reading: 6.5, Writing: 7.0 & Speaking: 6.5)
-
+-->
 ---
 
 ## Experiences
