@@ -39,6 +39,14 @@ This project focuses on improving the summarization of cyber threat reports usin
 
 ---
 
+
+## **KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation [[Thesis]](https://github.com/ashraf-ul-alam-amit/KD-UDA)**  
+### *Ashraf Ul Alam, [S. M. Mahedy Hasan](https://www.ruet.ac.bd/mahedycseruet)*
+
+The KD-UDA project focuses on enhancing segmentation performance across unseen target domains using knowledge distillation for unsupervised domain adaptation. The primary goal is to adapt models to new domains without requiring labeled data from these domains. This is achieved by transferring knowledge from a model trained on the source domain to a target domain model using [knowledge distillation](https://keras.io/examples/vision/knowledge_distillation/). The approach incorporates source loss and domain shift loss with Kullback-Leibler (KL) divergence to address domain shift issues. The framework's effectiveness is evaluated on 2D datasets (Drishti-GS, RIM-ONE-R3, REFUGE Source-1, and REFUGE Source-2) for [retinal images](https://doi.org/10.1109/TMI.2020.3015224) and a 3D dataset [(BraTS2021)](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1) for MRI scans. In both scenarios, the framework significantly improves segmentation performance on target datasets.
+
+---
+
 ## **Parameter Efficient Fine-tuning of DistilBERT with LoRA for Phishing URL Detection [[Project]](https://github.com/ashraf-ul-alam-amit/DistilBERT-Fine-Tuning-for-Phishing-Urls-Detection)**  
 ### *Ashraf Ul Alam*
 
@@ -46,10 +54,10 @@ This project focuses on detecting phishing URLs using the [DistilBERT](https://h
 
 ---
 
-## **KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation [[Thesis]](https://github.com/ashraf-ul-alam-amit/KD-UDA)**  
-### *Ashraf Ul Alam, [S. M. Mahedy Hasan](https://www.ruet.ac.bd/mahedycseruet)*
+## **Fake News Detection Using NLP: A Study on BERT and LSTM with GloVe Embeddings [[Project]](https://github.com/ashraf-ul-alam-amit/Fake-News-Detection-with-BERT-and-LSTM-based-Models)**  
+### *Ashraf Ul Alam*
 
-The KD-UDA project focuses on enhancing segmentation performance across unseen target domains using knowledge distillation for unsupervised domain adaptation. The primary goal is to adapt models to new domains without requiring labeled data from these domains. This is achieved by transferring knowledge from a model trained on the source domain to a target domain model using [knowledge distillation](https://keras.io/examples/vision/knowledge_distillation/). The approach incorporates source loss and domain shift loss with Kullback-Leibler (KL) divergence to address domain shift issues. The framework's effectiveness is evaluated on 2D datasets (Drishti-GS, RIM-ONE-R3, REFUGE Source-1, and REFUGE Source-2) for [retinal images](https://doi.org/10.1109/TMI.2020.3015224) and a 3D dataset [(BraTS2021)](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1) for MRI scans. In both scenarios, the framework significantly improves segmentation performance on target datasets.
+In this project, I explored two different approaches to fake news detection. The first model utilized **GloVe embeddings with an LSTM-based neural network**, where extensive text preprocessing techniques were applied to extract key features such as word frequency, punctuation usage, and stopwords. The second model leveraged **BERT**, a transformer-based language model, to analyze news titles with contextual word embeddings for improved accuracy. By comparing these two methodologies, I assessed their effectiveness in detecting misinformation and highlighted the impact of deep learning architectures in NLP-based fake news classification.  
 
 ---
 
