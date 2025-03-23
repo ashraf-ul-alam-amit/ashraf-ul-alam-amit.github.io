@@ -55,9 +55,9 @@ This project focuses on detecting phishing URLs using the [DistilBERT](https://h
 ---
 
 ## **Fake News Detection Using NLP: A Study on BERT and LSTM with GloVe Embeddings [[Project]](https://github.com/ashraf-ul-alam-amit/Fake-News-Detection-with-BERT-and-LSTM-based-Models)**  
-### *Ashraf Ul Alam*
+### *Ashraf Ul Alam*  
 
-In this project, I explored two different approaches to fake news detection. The first model utilized **GloVe embeddings with an LSTM-based neural network**, where extensive text preprocessing techniques were applied to extract key features such as word frequency, punctuation usage, and stopwords. The second model leveraged **BERT**, a transformer-based language model, to analyze news titles with contextual word embeddings for improved accuracy. By comparing these two methodologies, I assessed their effectiveness in detecting misinformation and highlighted the impact of deep learning architectures in NLP-based fake news classification.  
+This project explores two distinct approaches to fake news detection. The first model employs **GloVe embeddings with an LSTM-based neural network**, incorporating extensive text preprocessing techniques to extract key features such as word frequency, punctuation usage, and stopwords. The second model utilizes **BERT**, a transformer-based language model, to analyze news titles with contextual word embeddings for improved accuracy. By comparing these methodologies, the study evaluates their effectiveness in detecting misinformation and highlights the impact of deep learning architectures in NLP-based fake news classification.
 
 ---
 
