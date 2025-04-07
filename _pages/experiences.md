@@ -7,7 +7,7 @@ permalink: /experiences/
 ---
 
 ## Sasthotech  
-**Software Engineer** *(October 2024 – Present)*  
+**Software Engineer** *(August 2024 – Present)*  
 
 - Initially joined as a **Software Engineer Intern** and was later appointed as a permanent team member.  
 - Contributing to the automation of hospital management and diagnostic systems.  
