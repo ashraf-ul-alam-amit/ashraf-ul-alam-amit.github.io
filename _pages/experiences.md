@@ -9,7 +9,7 @@ permalink: /experiences/
 ## Sasthotech  
 **Junior Software Engineer** *(August 2024 – Present)*  
 
-- Initially joined as a **Software Engineer Intern** and was later appointed as a permanent team member.  
+<!-- - Initially joined as a **Software Engineer Intern** and was later appointed as a permanent team member.  -->
 - Contributing to the automation of hospital management and diagnostic systems.  
 - Currently working on the development of an **Explainable AI** model for X-ray report generation.  
 
